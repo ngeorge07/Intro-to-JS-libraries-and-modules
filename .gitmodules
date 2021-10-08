@@ -1,0 +1,3 @@
+[submodule "my-first-vite"]
+	path = my-first-vite
+	url = https://github.com/ngeorge07/chartjs_with_npm
